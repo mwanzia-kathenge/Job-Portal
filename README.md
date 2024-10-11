@@ -64,7 +64,7 @@ Install my-project with npm
 ## 🛠 Tools
 
 Next JS , 
-Tailwind css ,
+Tailwind css ,g
 Redux toolkit (for state management),
 MongoDB, 
 
